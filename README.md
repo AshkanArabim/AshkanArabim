@@ -1,4 +1,4 @@
-Hello! I'm Ashkan and I am learning web development through [The Odin Project](https://theodinproject.com).
+Hello! I'm Ashkan!
 
 I'm currently studying CS at the University of Texas at El Paso. 
 
