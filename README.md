@@ -9,3 +9,5 @@ On the software development side, I know Python (of course), Java, C, JavaScript
 My interests tend to shift, I started in web development, shifted into data science, and now I'm focusing on contributing to open-source software.
 
 You can see all the ways to reach out on my [portfolio](https://ashkan.zone). I'd be happy even if you just say hello :)
+
+You can also check out some of my project demos and presentations on [my YouTube channel](https://www.youtube.com/@ashkan.arabim).
