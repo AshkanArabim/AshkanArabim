@@ -2,17 +2,16 @@ Hello! I'm Ashkan!
 
 ## About me
 
-I'm currently studying CS at the University of Texas at El Paso. 
+I think information should flow freely, specifically in the form of:
+- open-source software
+- open research
+- open markets
+- transparent politics
+- YIMBY; let supply meet demand
 
-On the research side, I have a bunch of experience using TensorFlow, PyTorch, NumPy, Pandas, among other libraries.
+My life goal is to be a serial entrepreneur, building tools that make lives easier.
 
-On the software development side, I know Python (of course), Java, C, JavaScript, React.JS, Vala, and a bit of C++. Honestly you'd be much better off looking at my resume in the "resume" repository. 
-
-My interests tend to shift, I started in web development, shifted into data science, and now I'm focusing on contributing to open-source software.
-
-You can see all the ways to reach out on my [portfolio](https://ashkan.zone). I'd be happy even if you just say hello :)
-
-You can also check out some of my project demos and presentations on [my YouTube channel](https://www.youtube.com/@ashkan.arabim).
+Feel free to email me at ashkan.arabim@gmail.com !
 
 ## Some Stats
 
